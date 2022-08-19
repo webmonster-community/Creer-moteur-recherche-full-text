@@ -2,9 +2,7 @@
 
 # Créer un moteur de recherhce
 
-Comprendre comment fonctionne les moteurs de recherche Full Text et apprendre à en créer un
-
-## [PYTHON](python/)
+Comprendre comment fonctionne les moteurs de recherche Full Text et apprendre à en créer un moteur de recherche.
 
 Si vous avez des questions sur l'utilisation de ces scripts n'hésitez pas à laisser un commentaire.
 
